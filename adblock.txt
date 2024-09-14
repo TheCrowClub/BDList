@@ -1,3 +1,11 @@
+! Title: Bangladeshi Website Lists
+! Description: A filter list to hide ads and distracting elements from Bangladeshi websites.
+! Version: 1.0.0
+! Last modified: 2024-09-14 20:50
+! Expires: 2 weeks (update frequency)
+! Homepage: https://github.com/TheCrowClub/BDList
+
+
 ||tds-images.thedailystar.net/sites/default/files/uploads/2023/11/19/walton-eplaza.jpeg
 www.rokomari.com##.container-fluid.text-center.d-block
 www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)

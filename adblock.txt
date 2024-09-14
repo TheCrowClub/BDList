@@ -8,7 +8,5 @@
 
 ||tds-images.thedailystar.net/sites/default/files/uploads/2023/11/19/walton-eplaza.jpeg
 www.rokomari.com##.container-fluid.text-center.d-block
-www.youtube.com##ytd-guide-section-renderer.ytd-guide-renderer.style-scope:nth-of-type(4)
-www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope
 www.bohubrihi.com##.css-10ed4xt.Banner_no_banner_image__z5NOx.Banner_sales_banner__tM62B.Banner_banner__bINov.ant-alert-banner.ant-alert-no-icon.ant-alert-warning.ant-alert
 ||images.thedailystar.net/sites/default/files/uploads/2023/03/09/icon-bell.svg
